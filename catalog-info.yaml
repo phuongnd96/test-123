@@ -6,6 +6,7 @@ metadata:
   description: My first Backstage catalog item.
   annotations:
     github.com/project-slug: phuongnd96/test-123
+    backstage.io/kubernetes-id: minikube
 spec:
   type: service
   owner: user:phuongnd96
